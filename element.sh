@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# create variable to query database
+# create PSQL variable to query database
 PSQL="psql -x --username=freecodecamp --dbname=periodic_table --tuples-only -c"
 
 
