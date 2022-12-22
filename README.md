@@ -13,7 +13,8 @@ Connected to the periodic database provided by FreeCodeCamp, fixed mistakes and 
 
 Created a Bash script (version controlled with git) that accepts an argument in the form of an atomic number, symbol, or name of an element and outputs some information about the given element.
 
-View: < href="https://github.com/CheilaDaSilva/periodic_table_database/blob/main/element.sh">[element.sh]
+View: <a href="https://github.com/CheilaDaSilva/periodic_table_database/blob/main/element.sh"> elements.sh
+  </a>
 
 ---
 
