@@ -33,7 +33,7 @@ Created a Bash script (version controlled with git) that accepts an argument in 
 
 ### Tasks completed
 
-- [ ] Rename the `weight` column to `atomic_mass`
+- [X] Rename the `weight` column to `atomic_mass`
 - [ ] Rename the `melting_point` column to `melting_point_celsius` and the `boiling_point` column to `boiling_point_celsius`
 - [ ] The `melting_point_celsius` and `boiling_point_celsius` columns should not accept null values
 - [ ] Add the `UNIQUE` constraint to the `symbol` and `name` columns from the `elements` table
