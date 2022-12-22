@@ -1,6 +1,6 @@
-# Project: Periodic Table Database - Querying data based on user request.
+# Project: Querying data based on user request.
 
-<!-- banner -->
+![periodic table banner (4)](https://user-images.githubusercontent.com/88495091/209232470-e7d902b6-0ceb-407e-b3ba-7f3042655162.png)
 
 ## Project Goal
 Create a Bash script to get information about chemical elements from a periodic table database.
